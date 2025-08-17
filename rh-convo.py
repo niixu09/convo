@@ -1,8 +1,8 @@
-import convo
+import con
 
 def main():
 
-    convo.main()
+    con.main()
 
 if __name__ == "__main__":
     main()
